@@ -19,7 +19,7 @@ module Altera_UP_Audio_Bit_Counter (
 	left_right_clk_falling_edge,
 	
 	// Bidirectionals
-
+ 
 	// Outputs 
 	counting
 );
