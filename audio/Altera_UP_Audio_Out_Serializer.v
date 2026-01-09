@@ -11,7 +11,7 @@ module Altera_UP_Audio_Out_Serializer (
 	clk,
 	reset,
 	
-	bit_clk_rising_edge,
+	bit_clk_rising_edge, 
 	bit_clk_falling_edge,
 	left_right_clk_rising_edge,
 	left_right_clk_falling_edge,
